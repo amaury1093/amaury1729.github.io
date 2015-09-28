@@ -1,0 +1,18 @@
+body {
+  background: #1b1d20;
+  color:      #1b1d20;
+  font:       15px/26px 'Mate', Times, "Times New Roman", serif;
+}
+
+section {
+  text-align: center
+}
+
+.layer {
+  background: #fff;
+  position:   fixed;
+  top:        0;
+  left:       0;
+  right:      0;
+  bottom:     0;
+}
