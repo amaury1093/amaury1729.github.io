@@ -4,7 +4,7 @@
 }
 
 body {
-  background:       #1b1d20;
+  background:       #fff;
   color:            #1b1d20;
   font:             15px/26px 'Mate', Times, "Times New Roman", serif;
 }
@@ -59,6 +59,8 @@ a:hover {
 }
 
 .layer {
+  margin:           12px;
+  border:           1px solid #767779;
   background:       #fff;
   position:         fixed;
   top:              0;
