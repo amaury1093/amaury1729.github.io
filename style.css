@@ -1,38 +1,67 @@
+* {
+  padding:          0;
+  margin:           0;
+}
+
 body {
-  background:     #1b1d20;
-  color:          #1b1d20;
-  font:           15px/26px 'Mate', Times, "Times New Roman", serif;
+  background:       #1b1d20;
+  color:            #1b1d20;
+  font:             15px/26px 'Mate', Times, "Times New Roman", serif;
 }
 
 section {
-  text-align:     center;
-}
-
-h1 {
-  margin-bottom:  0
+  text-align:       center;
 }
 
 h2 {
-  font-size:      14px;
-  font-style:     italic;
-  font-weight:    normal;
-  color:          #aa9483;
-  margin-top:     0;
-  letter-spacing: 0.1em;
+  font-size:        14px;
+  font-style:       italic;
+  font-weight:      normal;
+  color:            #aa9483;
+  letter-spacing:   0.1em;
+}
+
+li {
+  list-style:       none;
+  display:          inline-block;
+  width:            120px;
+  margin-top:       16px;
+  margin-bottom:    16px;
+  font-family:      'Montserrat', sans-serif;
+  font-weight:      300;
+  font-size:        10px;
+  letter-spacing:   0.2em;
+  text-transform:   uppercase; 
+}
+
+a {
+  text-decoration:  none;
+  color:            #767779;
+}
+
+a:hover {
+  text-decoration:  underline;
+  color:            #aa9483;
 }
 
 .layer {
-  background:     #fff;
-  position:       fixed;
-  top:            0;
-  left:           0;
-  right:          0;
-  bottom:         0;
+  background:       #fff;
+  position:         fixed;
+  top:              0;
+  left:             0;
+  right:            0;
+  bottom:           0;
 }
 
 #name {
-  position:       absolute;
-  width:          100%;
-  top:            50%;
-  margin-top:     -26px;
+  position:         absolute;
+  width:            100%;
+  top:              50%;
+  margin-top:       -26px;
+}
+
+#contact {
+  position:         absolute;
+  width:            100%;
+  bottom:           0;
 }
