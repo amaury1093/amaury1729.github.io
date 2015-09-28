@@ -15,18 +15,24 @@ section {
 
 h1 {
   letter-spacing:   0.1em;
+  opacity:          0;
+  position:         relative;
+  top:              -20px;
 }
 
 h2 {
+  
   font-size:        14px;
   font-style:       italic;
   font-weight:      normal;
   color:            #aa9483;
   letter-spacing:   0.1em;
+  opacity:          0;
 }
 
 ul {
   display:          inline-block;
+  opacity:          0;
 }
 
 li {
