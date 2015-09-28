@@ -13,6 +13,10 @@ section {
   text-align:       center;
 }
 
+h1 {
+  letter-spacing:   0.1em;
+}
+
 h2 {
   font-size:        14px;
   font-style:       italic;
@@ -27,8 +31,8 @@ li {
   width:            120px;
   margin-top:       16px;
   margin-bottom:    16px;
-  font-family:      'Montserrat', sans-serif;
-  font-weight:      300;
+  font-family:      'Lato', sans-serif;
+  font-weight:      100;
   font-size:        10px;
   letter-spacing:   0.2em;
   text-transform:   uppercase; 
