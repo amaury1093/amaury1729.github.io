@@ -25,6 +25,10 @@ h2 {
   letter-spacing:   0.1em;
 }
 
+ul {
+  display:          inline-block;
+}
+
 li {
   list-style:       none;
   display:          inline-block;
