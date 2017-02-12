@@ -16,6 +16,6 @@ var $w = $(window).scroll(function(){
     } else {
       $('nav a').css({"color":"#888"});
       $('#nav-top').css({"border-bottom": "none"});
-      $('#nav-portfolio').css({"border-bottom": "2px solid #fff"});
+      $('#nav-portfolio').css({"border-bottom": "2px solid #888"});
     }
 });
