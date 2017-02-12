@@ -23,35 +23,57 @@
   <link rel="shortcut icon" type="image/png" href="/logo.png">
 
   <link href="style.css" rel="stylesheet" type="text/css">
-  <link href='https://fonts.googleapis.com/css?family=Mate:400,400italic|Lato' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script type="text/javascript" src="tracking.js"></script>
 
 </head>
 
 <body>
-  <div class="layer">
+    <nav id="nav">
+      <div class="container">
+        <a id="nav-top" class="scroll" href="body">Amaury Martiny</a>
+        <a id="nav-portfolio" class="scroll" href="#portfolio">Portfolio</a>
+      </div>
+    </nav>
+
     <section id="name">
-      <h1>Amaury Martiny</h1>
-      <h2>web developer, travel blogger, thinker</h2>
+      <div class="container">
+        <h1>Amaury Martiny is a freelance web developer.</h1>
+      </div>
     </section>
 
-    <section id="contact">
-      <div>
+    <section id="social">
+      <div class="container">
+        <a target="_blank" href="https://twitter.com/roamsweetroam">Twitter</a>
+        <a target="_blank" href="https://www.linkedin.com/in/amaurymartiny">LinkedIn</a>
+        <a target="_blank" href="https://github.com/amaurymartiny">Github</a>
+        <a target="_blank" href="http://stackoverflow.com/users/1935318/amaurymartiny?tab=profile">Stack Overflow</a>
+        <a target="_blank" href="http://feedly.com/amaurymartiny">feedly</a>
+        <a target="_blank" href="http://roamsweetroam.org/">Blog</a>
+        <a target="_blank" href="mailto:amaury.martiny@gmail.com">Mail</a>
+      </div>
+    </section>
+
+    <div class="browser-height"></div>
+    <section id="portfolio">
+      <div class="container">
         <ul>
-          <li><a target="_blank" href="https://twitter.com/roamsweetroam">Twitter</a></li>
-          <li><a target="_blank" href="https://www.linkedin.com/in/amaurymartiny">LinkedIn</a></li>
-          <li><a target="_blank" href="https://github.com/amaurymartiny">Github</a></li>
+          <li><a href="https://chrome.google.com/webstore/detail/feedly-mini/ndhinffkekpekljifjkkkkkhopnjodja?hl=en" target="_blank"><h2>Feedly Mini<small>chrome-extension, front-end, 250k+ weekly users</small></h2></a></li>
+          <li><a href="https://monbanquet.fr" target="_blank"><h2>MonBanquet<small>angular2, ux, front-end, responsive, mongodb</small></h2></a></li>
+          <li><a href="https://timed-2ad02.firebaseapp.com/" target="_blank"><h2>Timed<small>chrome-extension, reactjs, nodejs, expressjs, api-development, mongodb</small></h2></a></li>
+          <li><a href="https://my.ecp.fr" target="_blank"><h2>MyECP<small>symfony2, postgresql, jquery, jquery-ui</small></h2></a></li>
+          <li><a href="https://github.com/amaurymartiny/react-redux-auth0-kit" target="_blank"><h2>React Redux Auth0<small>reactjs, redux</small></h2></a></li>
+          <li><a href="https://wera.firebaseapp.com" target="_blank"><h2>Wera<small>angular2, nodejs, mongodb, proof-of-concept</small></h2></a></li>
         </ul>
+        <!-- <ul>
         <ul>
-          <li><a target="_blank" href="http://feedly.com/amaurymartiny">feedly</a></li>
-          <li><a target="_blank" href="http://roamsweetroam.org/">Blog</a></li>
-          <li><a target="_blank" href="mailto:amaury.martiny@gmail.com">Mail</a></li>
-        </ul>
+
+        </ul> -->
       </div>
     </section>
   </div>
-  <script type="text/javascript" src="animation.js"></script>
+  <script type="text/javascript" src="main.js"></script>
 </body>
 </html>
