@@ -16,7 +16,7 @@ html, body {
   color: #111;
   font-family: 'Lato', Arial;
   line-height: 34px;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 a {
@@ -29,7 +29,7 @@ li {
 }
 
 h1, h2 {
-  font-size: 56px;
+  font-size: 40px;
   font-weight: 400;
   line-height: 66px;
 }
@@ -71,7 +71,7 @@ nav {
 
 nav a {
   float: left;
-  margin-right: 64px;
+  margin-right: 50px;
 }
 
 nav #nav-top {
@@ -110,7 +110,8 @@ nav #nav-top {
 
 #social li {
   display: inline-block;
-  width: 80px;
+  width: 30%;
+  min-width: 80px;
   font-size: 16px;
   line-height: 24px;
 }
@@ -163,6 +164,21 @@ nav #nav-top {
 /*********************
  * MEDIA QUERIES
  ********************/
+@media (min-width: 400px) {
+  html, body {
+    font-size: 20px;
+  }
+
+  h1, h2 {
+    font-size: 56px;
+    line-height: 70px;
+  }
+
+  #social li {
+    width: 80px;
+  }
+}
+
 @media (max-width: 767px) {
   .container {
     width: 100%;
