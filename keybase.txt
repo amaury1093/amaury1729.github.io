@@ -1,81 +1,75 @@
 ==================================================================
-https://keybase.io/amaurymartiny
+https://keybase.io/amaurym
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://amaurymartiny.com
-  * I am amaurymartiny (https://keybase.io/amaurymartiny) on keybase.
-  * I have a public key with fingerprint C7EC 724E 617C 2FEA 687F  7A47 1F6C 0803 0101 D2EB
+  * I am an admin of http://amaurym.com
+  * I am amaurym (https://keybase.io/amaurym) on keybase.
+  * I have a public key with fingerprint 6887 A4E1 F231 B8B5 41D7  B15B 26C7 D167 A2EF 65BF
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "010139b7295dbd016864e311b204b4c9eb62219a9bc0e87e8454a9a714cc3233adb20a",
-      "fingerprint": "c7ec724e617c2fea687f7a471f6c08030101d2eb",
+      "eldest_kid": "0120057390b7f8b3958ef183d71d5d9a19769c63dbed75a848a1acb5ecfe4bc439f50a",
+      "fingerprint": "6887a4e1f231b8b541d7b15b26c7d167a2ef65bf",
       "host": "keybase.io",
-      "key_id": "1f6c08030101d2eb",
-      "kid": "010139b7295dbd016864e311b204b4c9eb62219a9bc0e87e8454a9a714cc3233adb20a",
-      "uid": "ada7019b5db919e79e0ea19f214b9d19",
-      "username": "amaurymartiny"
-    },
-    "merkle_root": {
-      "ctime": 1504035365,
-      "hash_meta": "8ad76297df616549e18e3fd1b173c4db96d5b46c3b010eee880f0eb60342f829",
-      "seqno": 1355485
-    },
-    "revoke": {
-      "sig_ids": [
-        "c5113f8d5627e4da451580f316ef476137748cf015bcc738fac16cef24d0fc2b0f"
-      ]
+      "key_id": "26c7d167a2ef65bf",
+      "kid": "0101deb175c0e6bca61b604f3e61368612f760cfc2e2578d6cbf82096b857c9f62b30a",
+      "uid": "83368e856d5c954fb5d65cf06a0c7b19",
+      "username": "amaurym"
     },
     "service": {
-      "hostname": "amaurymartiny.com",
+      "hostname": "amaurym.com",
       "protocol": "http:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1504035396,
+  "ctime": 1609517022,
   "expire_in": 157680000,
-  "prev": "f7db177b46a2334f52a4b035a8ce6d394a24e3d956553a332b9c821b9e40c3c9",
-  "seqno": 13,
+  "prev": "25b99902fed851e5f432a9d286c34b79a1b373bb2287c0fef5d47d0d4e8220ac",
+  "seqno": 5,
   "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.73
+Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMKwAnicrVNbaBxVGN5NqmmDWvFWX4J28FJwCXPm3OZEsdCEQCLeICKlXZdz+U8y
-bnZnOzNJuybBC0ir1njpg2LRPtgUDb0oWqRogl20YoIPtRStGqVK6wUE36oIrWeC
-Pih9dF6GOfPd/u+c89Hl7YXO4ntN8SDsTprFxdajY4WNM62+CU/Fpun1THhVWH7B
-qIE0q1Qj4/V4PvIRFooHghplfMRCRgAjpAKfKKIFKBYESEihtA8hh5BQIoXkiGiN
-A4ylcUjplTwb1YchaSRRPXOymoPmAQGGuA4sSBZyyyXhyDLthz7ObU0AyhFH4jRn
-uHBKptAdxW7NfVSW410E/z/nHluWk0ZyHwnlxAQSwAX4IJGwASJKGCRyYApJXdYg
-R9fkWNKsySSL6k1vquTVIKmOQiWJ4yxvWGdRjkPUJz6mmFE3pUxHKjXIpKOH0nAW
-CG4sQ4wSASgEbA1SiGNNXAJmqCJMY+WmBIAw9K3vBvIxCWwY5GFS2FKPnQOmlITU
-JUhgPK5Cbp5Gw6671OvZ5GmKELahoSzgQIwkFFGnhREDSzhDmHMSausjqrTmOLRS
-I6bBBsT4VgfKt155KjdLxiO9LJ5v1sVK6NZxzcVqJHEW63jU/R7JskZP3k3WbOTw
-raAqfwtVVFQ37rg4wjgkaRTX3SQO+Z/aBCt5sK0RJVCJcgTlLPTdk9vAuJO03LjK
-uKtKuh0llgaSKMeUoQZmsCDSnUBsBGWUYolxoIQOA6QEEF9j/a8eXU457DRde3WZ
-jSXgTbU+3LyiUOwsXHpJW36PCp2rrvznds3xjguD51b9HK/5+vbDc++03Vre/qkd
-2oVm2m/5vjXy58AXZ4/s//b6k+uqe57u34/vLB7RU/vWrj5E+h5uzt408cTVG87b
-Z6vo5I65u3rve/za68o37Lt36Y3yi9Mvb/ztxM0Lrw0ubp18YXSl19v/mdF3r9ky
-d7bjwFKx6+BSMTx6WXn7/CtXDFzgu75r8fUL6wfnHzoxq76559xXn9w/8GXnxLvb
-Vk5W72h77qm3f3qyduaHx843ZG83/jyYOXb8g52zj0TpdPbjq+/vfeD19mtOvXQ0
-3tB7pr9wuj/rOn1ox69Dv0+/OTskdnbNl946vmJd9PHavtLBY7dddePk6sXS8x0H
-Dv+CF3Zv2nzqD08/s+cvEZyAoQ==
-=yVmM
+yMNwAnicbVJtUFRVGF4QcVh1AwoCdVa9jZm4Q/djz/1YQ8s1opAcyYbhI9Z77j13
+ue2yu9xdUHIxisFqJkQSypqdcQDRRpANjClaGIQBSdNJTdLKKaMxBSIGRGOEhu5l
+8kcznT9nznue5znP+5y3f/kinT7sycHL9oYJ1BP2TW9tsc428cLP+zDoFksxyz7M
+gRY25BSR12dzyCJmwXCCxHHAUBwOGYmFFAdYJBEsJTKECESOJziG5gSaEiESGcCz
+ZpYneAECJEjIDAUzxUkA5zETJskuO1I8iuzyqbI0yzK8GRESSRGQhcBMiAwkACRp
+gREJmuFJJNEASiqxwO3VGKo5yHtRsuxWa+rBtmDvf/APfeOEiCDBAAFHNBR4moA0
+bpYoRBMUzdIEKTE0LkgCiUjAsCItQIklcY6GLGAETqJJSC34Ll6QYymVhFhAi0Dg
+gFmCQKSBIOE0jwuqcU4DepHi4guRiuYL+WKltBArM2FqsUQWkJar1sh/AcmCu1Bl
+ehS3zy24nepFgc/nsWg8X6lHA+5B0PavhA3KLlENUSWUIMUru12YhVCRgk/WNAka
+5wDB4CRpwtBej6wgm6whAEOzuLq0Z1CJFhmAHMfhpIREFhAISGaK5DmRZGmBMkNG
+/VJIMRSEJMkyAi4hCYhmRsRFM2JJEucFTGuqyOXGLEC1ydtVSa9sd/G+YgVhZX29
+eRG6ML0ucnG4Nlw6fVT0w5EL+qN17+aHup325RGrI21XAt1p7o701uq5lej1nK6v
+csbSHmWjnREVdcEJ5fpQ3outoxuGNtWsdwTyjbfLe/XW1lPHfSbjitb+H7ILliY0
+PGsYHL94b8jakN6uOFce2jjxxOzznevONsqm7zqy207OT5/JNSiGZWV/xrdUxfzm
+iN8p+qcS5+bqpvxZz8i2+mM9ScEtw78mdoyMnrr8+HNR9gdvlltdNzPCDoaI7ZuL
+DM2f5a4pSd1+PzaQd2aJ60Zz8MTxw64Dtyrnr5xv8k9e2FibH2PdcW5Zu+eYpb8l
+KWaNsHVswNF1BMtIntzd9XRWjWNdjpLnmZ372xRrvNa0KniiqjMvc/+hoH74aPTY
+wbWPVH3R9catO7NY58D11EnbYiNjfS2191X/IkKdQyN/JKE+9mTyy5n+ij3jvz+1
+KuxSMCV+OikwPtlyen3cgW3MuZsBU99A6v2xwGBv7ulb1Tv5u33vzF/t3k80eraV
+R2VM7oLZs/qPZnLrvm7Z2565uvGvUd97I5+0N63F0Jfua4Ng5o+Pf6n0hY4utd5Q
+/Eay7cfQp+ndhtDZ2Z9WpAzDmub4XeEG3YWcDTvu+Z1RgYKKlOoI9MpV+GBTUc/5
+pOlv01I+z34/iy4LN731duKWrY9tHrmdMBO3O2OqM4EBH0am3rnUXBu3JC5Uebi6
+6qXW76PbPqgculs/c/EffOXCgg==
+=F444
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/amaurymartiny
+View my publicly-auditable identity here: https://keybase.io/amaurym
 
 ==================================================================
